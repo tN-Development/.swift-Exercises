@@ -48,4 +48,4 @@ for var x = 1; x <= 200; x++ {
     }
 }
 
-var changed = "Branch changed....sneaky ;) - Development.git"
+var changed = "Branch changed....sneaky ;) - Master.git"
