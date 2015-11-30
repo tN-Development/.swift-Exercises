@@ -30,7 +30,7 @@ for odd in oddNumbers {
 
 var x = 0;
 repeat {
-
+    
     print("The sum is: \(sums[x])")
     x++
 } while x < sums.count
